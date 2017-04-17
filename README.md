@@ -14,7 +14,7 @@ database of geocoded properties.
 
 ## CHALLENGES FACED
 At first, location button appeared as a thin line rather than a button below the text input fields. 
-Resolved by adding <View style={styles.flowRight}></View> around the button.
+Resolved by adding < View style={styles.flowRight} > < /View > around the button.
 
 Later, search queries were unable to initiate upon pressing the “Go” button. 
 Found the minor capitalization discrepancy between a declared var “queryString” and later asking 
