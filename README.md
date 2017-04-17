@@ -27,6 +27,6 @@ DOM standards, JSX, Components, render(), destructuring assignments, module.expo
 API requests, promises, JSON parsing, geolocation API
 
 ## BUILT WITH
-Xcode, Visual Studio Code, brew, node.js
+Xcode, Visual Studio Code, brew, node.js, react, react-native
 
 
